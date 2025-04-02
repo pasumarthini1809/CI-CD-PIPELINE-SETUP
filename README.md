@@ -18,3 +18,7 @@ Pipeline Creation: Create a Jenkins Pipeline using a Jenkinsfile in the project'
 SCM Integration: Configure Jenkins to poll the SCM repository for changes.
 Build Stage: Define a build stage in the Jenkinsfile to compile the code and create artifacts.
 
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/86931ef4-06d5-4f9e-ae3e-53724962debb)
+
